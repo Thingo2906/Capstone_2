@@ -1,0 +1,12 @@
+.movie-list {
+  margin-left: 2%;
+  padding-top: 5vh;
+  height: 100vh; 
+}
+
+.poster{
+  display: flex;
+  overflow-y: scroll;
+  flex-wrap: wrap;
+  width: 100vw;
+} 
